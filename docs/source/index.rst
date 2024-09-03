@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ABC8 - abc8.cheap - Trang Chủ Nhà Cái ABC8 Uy Tín Số 1 Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ABC8 <https://abc8.cheap/>`_ là nhà cái số 1 Việt Nam, cung cấp các trò chơi cá cược trực tuyến hấp dẫn như thể thao, đá gà, casino, nổ hũ, xổ số, bắn cá.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://abc8.cheap/
 
-   This project is under active development.
+Author: https://abc8.cheap/hoang-minh-khang/
 
-Contents
---------
+Địa chỉ: 40/21 Lam Sơn, Phường 6, Bình Thạnh, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Email: info@abc8.cheap
 
-   usage
-   api
+Điện thoại: 0777844198
+
+#abc8, #abc8_cheap, #nha_cai_abc8, #abc8_casino
